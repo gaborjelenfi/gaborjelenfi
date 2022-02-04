@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gaborjelenfi
+- 👋 Hi, I’m @gaborjelenfi (nick name: dzsub)
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking for a  Front End job
