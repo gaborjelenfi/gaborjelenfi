@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gaborjelenfi (nickname: dzsub)
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Backend
-- 💞️ I’m looking for a  Fullstack enginer job
+- 💞️ I’m looking for a web development job
 - 📫 gabor.jelenfi@gmail.com
 
 <!---
