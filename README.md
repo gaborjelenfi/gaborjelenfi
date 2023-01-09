@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gaborjelenfi (nickname: dzsub)
+- 👋 Hi, I’m Gábor Jelenfi (nickname: dzsub)
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking for a web development job
